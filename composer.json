@@ -1,0 +1,17 @@
+{
+    "name": "doyevaristo/liquet-database",
+    "description": "use mysql queries and and efficiently import thousands of records from csv",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Rolando Evaristo",
+            "email": "doy.evaristo@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Doyevaristo\\LiquetDatabase": "src"
+        }
+    },
+    "require": {}
+}
