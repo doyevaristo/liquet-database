@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Doyevaristo\\LiquetDatabase": "src"
+            "Doyevaristo\\LiquetDatabase\\": "src"
         }
     },
     "require": {}
