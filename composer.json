@@ -2,6 +2,7 @@
     "name": "doyevaristo/liquet-database",
     "description": "use mysql queries and and efficiently import thousands of records from csv",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Rolando Evaristo",
